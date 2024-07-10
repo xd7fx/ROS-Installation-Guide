@@ -19,7 +19,9 @@ This guide provides step-by-step instructions to install ROS (Robot Operating Sy
 
 ## Step 1: Download and Install VirtualBox
 
-1. Open your web browser and go to the [VirtualBox website]([https://www.virtualbox.org/](https://www.virtualbox.org/wiki/Downloads )).
+1. Open your web browser and go to the [VirtualBox website]
+([https://www.virtualbox.org/](https://www.virtualbox.org/wiki/Downloads )).
+
 ![لقطة الشاشة 2024-07-10 213750](https://github.com/xd7fx/ROS-Installation-Guide/assets/173664349/b5f453f3-de08-4964-85cd-c55fa23e62c5)
 2. Click on "Download VirtualBox".
 3. Select the version appropriate for your operating system (Windows, macOS, Linux).
